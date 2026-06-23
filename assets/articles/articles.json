@@ -1,0 +1,940 @@
+{
+  "categories": [
+    {
+      "id": "menstruation",
+      "title": "Menstruación",
+      "articles": [
+        {
+          "id": "what-is-cycle",
+          "title": "¿Qué es el ciclo menstrual?",
+          "subtitle": "Fundamentos del ciclo femenino",
+          "readingTimeMinutes": 7,
+          "body": "El ciclo menstrual es la serie de cambios fisiológicos que preparan el cuerpo para un posible embarazo cada mes. Comienza el primer día de sangrado menstrual y finaliza el día anterior al inicio del periodo siguiente. Comprender su duración y variabilidad normal es clave para el autocuidado y la detección temprana de alteraciones. Esta información tiene fines educativos y no sustituye una evaluación médica personalizada.",
+          "stats": [
+            {
+              "label": "Duración habitual del ciclo",
+              "value": "21 a 35 días",
+              "source": "OMS"
+            },
+            {
+              "label": "Duración mediana del ciclo",
+              "value": "28 días",
+              "source": "NIH Endotext"
+            },
+            {
+              "label": "Ciclos dentro del rango normal",
+              "value": "91% de las mujeres",
+              "source": "JMIR 2020"
+            },
+            {
+              "label": "Duración del sangrado",
+              "value": "2 a 7 días",
+              "source": "OMS"
+            }
+          ],
+          "sections": [
+            {
+              "title": "¿Qué ocurre en el cuerpo durante el ciclo?",
+              "content": "El ciclo menstrual coordina el funcionamiento del cerebro, las glándulas endocrinas, los ovarios y el útero mediante hormonas como el estrógeno y la progesterona. En la primera mitad del ciclo, el estrógeno estimula el engrosamiento del endometrio, la capa interna del útero, mientras los folículos ováricos maduran. Alrededor de la mitad del ciclo se produce la ovulación: un óvulo es liberado y puede ser fecundado si hay espermatozoides presentes.\n\nSi no hay fecundación, los niveles hormonales descienden y el endometrio se desprende, generando el sangrado menstrual. Este proceso no es un simple periodo de limpieza, sino una respuesta hormonal compleja que refleja la comunicación entre distintos órganos del sistema reproductivo. Registrar la fecha de inicio de cada menstruación ayuda a calcular la longitud del ciclo y a identificar patrones personales que pueden resultar útiles en consultas médicas o en la planificación familiar."
+            },
+            {
+              "title": "¿Qué se considera un ciclo normal?",
+              "content": "La Organización Mundial de la Salud define como habitual un ciclo de entre 21 y 35 días, con un sangrado que suele durar de 2 a 7 días. Según datos del NIH Endotext, la duración mediana es de 28 días, aunque la variación individual es amplia y puede cambiar a lo largo de la vida. Un estudio publicado en JMIR en 2020 encontró que el 91% de las mujeres presentan ciclos de entre 21 y 35 días cuando se analizan datos de seguimiento digital a gran escala.\n\nLa normalidad no implica que todos los ciclos sean idénticos mes a mes. Pequeñas variaciones de uno a tres días son frecuentes y no suelen ser motivo de preocupación. Sin embargo, ciclos muy cortos, muy largos o sangrados excesivamente abundantes o prolongados merecen valoración profesional. La edad, el estrés, la nutrición, el ejercicio y ciertas condiciones médicas influyen en la regularidad y en la intensidad de los síntomas asociados."
+            },
+            {
+              "title": "El papel de las hormonas",
+              "content": "El eje hipotálamo-hipófisis-ovario regula el ciclo mediante señales hormonales en cascada. La hormona folículoestimulante promueve el crecimiento folicular y la producción de estrógeno. El pico de hormona luteinizante desencadena la ovulación. Tras la ovulación, el cuerpo lúteo secreta progesterona, que prepara el endometrio para la implantación de un embrión.\n\nCuando no hay embarazo, el cuerpo lúteo degenera, caen estrógeno y progesterona, y se inicia la menstruación. Estas fluctuaciones explican muchos de los cambios físicos y emocionales que algunas personas experimentan a lo largo del mes: variaciones en el flujo cervical, la temperatura corporal basal, la sensibilidad mamaria o el estado de ánimo. Conocer estas fases facilita anticipar síntomas y adaptar hábitos de bienestar sin caer en mitos sobre lo que debería sentirse en cada momento del ciclo."
+            },
+            {
+              "title": "Cuándo consultar a un profesional de salud",
+              "content": "Aunque el ciclo menstrual es un proceso fisiológico, existen señales que requieren atención médica. Entre ellas: ausencia de menstruación durante más de tres meses, sangrado entre periodos, dolor incapacitante, ciclos que varían más de siete a nueve días entre sí de forma persistente, o sangrado que empapa una toalla o tampón cada hora durante varias horas seguidas.\n\nUn ginecólogo o médico de atención primaria puede solicitar análisis hormonales, ecografías u otras pruebas según tu historial clínico. Llevar un registro del ciclo aporta información valiosa en la consulta y permite distinguir entre variaciones normales y patrones que ameritan investigación. Recuerda que cada cuerpo es diferente; lo importante es conocer tu patrón habitual y actuar ante cambios significativos o síntomas que afecten tu calidad de vida de manera sostenida.\n\nAdemás, factores como la lactancia, el inicio de anticonceptivos hormonales o su suspensión, y las etapas de transición hacia la menopausia pueden modificar temporalmente la duración y regularidad del ciclo. La menarquia, primera menstruación, suele ocurrir entre los 9 y 16 años, y es normal que los primeros ciclos sean irregulares durante los primeros años."
+            }
+          ],
+          "sources": [
+            {
+              "name": "OMS — Salud menstrual y ciclo menstrual",
+              "url": "https://www.who.int/news-room/fact-sheets/detail/menstrual-health-and-the-menstrual-cycle"
+            },
+            {
+              "name": "NIH Endotext — Fisiología del ciclo menstrual",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK279054/"
+            },
+            {
+              "name": "ACOG — Tu ciclo menstrual",
+              "url": "https://www.acog.org/womens-health/faqs/your-menstrual-cycle"
+            }
+          ]
+        },
+        {
+          "id": "cycle-phases",
+          "title": "Fases del ciclo menstrual",
+          "subtitle": "Menstruación, folicular, ovulación y lútea",
+          "readingTimeMinutes": 8,
+          "body": "El ciclo menstrual se organiza en cuatro fases interrelacionadas que preparan, posibilitan o descartan un embarazo cada mes. Cada fase tiene características hormonales, físicas y emocionales propias. Conocerlas te permite interpretar mejor los cambios de tu cuerpo y tomar decisiones informadas sobre salud, fertilidad y bienestar general.",
+          "stats": [
+            {
+              "label": "Fase menstrual (sangrado)",
+              "value": "2 a 7 días",
+              "source": "OMS"
+            },
+            {
+              "label": "Ovulación respecto al siguiente periodo",
+              "value": "Aprox. 14 días antes",
+              "source": "NIH Endotext"
+            },
+            {
+              "label": "Vida del óvulo tras ovulación",
+              "value": "12 a 24 horas",
+              "source": "NHS"
+            },
+            {
+              "label": "Pérdida sanguínea media por ciclo",
+              "value": "Aprox. 30 ml",
+              "source": "NIH Endotext"
+            }
+          ],
+          "sections": [
+            {
+              "title": "Fase menstrual: el inicio del ciclo",
+              "content": "La fase menstrual comienza el primer día de sangrado visible y marca el día 1 del ciclo. Durante esta etapa, el endometrio se desprende porque no hubo implantación de un embrión. El sangrado suele durar entre 2 y 7 días según la OMS, con una pérdida media cercana a los 30 ml según el NIH Endotext, aunque puede variar considerablemente entre personas.\n\nEs normal experimentar cólicos leves a moderados provocados por prostaglandinas, sustancias que favorecen las contracciones uterinas. Algunas personas notan fatiga, cambios de humor o mayor sensibilidad. Si el sangrado es muy abundante o el dolor interfiere con las actividades diarias, conviene consultar con un profesional de salud para descartar condiciones como miomas, adenomiosis o trastornos de la coagulación."
+            },
+            {
+              "title": "Fase folicular: preparación y crecimiento",
+              "content": "Tras la menstruación, la fase folicular impulsa el desarrollo de varios folículos en los ovarios bajo la acción de la FSH. Uno de ellos se vuelve dominante y produce estrógeno, que estimula la regeneración del endometrio. Los niveles crecientes de estrógeno también pueden asociarse con mayor energía, mejor estado de ánimo y un flujo cervical más abundante y elástico en los días previos a la ovulación.\n\nLa duración de la fase folicular es la más variable del ciclo: puede durar desde unos 10 días hasta más de 20 en ciclos largos. Esta variabilidad explica por qué la ovulación no siempre ocurre en el día 14 de forma rígida. El seguimiento de signos como el moco cervical o la temperatura basal ayuda a identificar cuándo se aproxima la ovulación en tu ciclo particular, especialmente si buscas concebir o usar métodos basados en el conocimiento del ciclo."
+            },
+            {
+              "title": "Ovulación: la ventana de fertilidad",
+              "content": "La ovulación ocurre cuando un óvulo maduro es liberado del ovario, generalmente unos 14 días antes del inicio del siguiente periodo, según el NIH Endotext. El pico de LH desencadena este evento, que puede ir acompañado de un ligero dolor unilateral en el bajo vientre, un aumento de la libido o cambios en el flujo cervical, que se vuelve más transparente y resbaladizo.\n\nUna vez liberado, el óvulo permanece viable aproximadamente entre 12 y 24 horas, según el NHS. Sin embargo, los espermatozoides pueden sobrevivir en el tracto reproductivo hasta cinco días, lo que amplía la ventana fértil real a varios días antes de la ovulación. Comprender este momento es fundamental tanto para quienes buscan concebir como para quienes desean evitar un embarazo con métodos de planificación natural, siempre acompañados de educación adecuada."
+            },
+            {
+              "title": "Fase lútea: progesterona y posible embarazo",
+              "content": "Tras la ovulación, el folículo roto se transforma en cuerpo lúteo y produce progesterona, hormona que estabiliza el endometrio y eleva ligeramente la temperatura corporal basal. Si ocurre la fecundación, el embrión puede implantarse y la progesterona seguirá siendo necesaria para sostener el embarazo temprano. Si no hay fecundación, el cuerpo lúteo degenera tras unos 12 a 14 días, las hormonas descienden y comienza un nuevo ciclo menstrual.\n\nDurante la fase lútea, muchas personas experimentan síntomas premenstruales: hinchazón, sensibilidad mamaria, antojos o cambios emocionales. Estos síntomas suelen intensificarse en los días previos al periodo, cuando las hormonas caen bruscamente. Diferenciar síntomas leves del síndrome premenstrual de un trastorno más severo como el TDPM requiere, en algunos casos, evaluación especializada y un registro detallado de síntomas."
+            },
+            {
+              "title": "Integrar el conocimiento de las fases en tu vida diaria",
+              "content": "Entender las cuatro fases no significa encasillarte en reglas rígidas, sino observar patrones que te resulten útiles. Puedes adaptar tu entrenamiento físico, tu alimentación o tu planificación de actividades según cómo te sientes en cada etapa. Por ejemplo, aprovechar la energía de la fase folicular para proyectos exigentes, o priorizar el descanso en los días previos al periodo.\n\nRegistrar síntomas, flujo cervical, temperatura basal o resultados de tests de ovulación enriquece tu autoconocimiento. Si detectas irregularidades persistentes, un profesional de salud puede investigar causas como el síndrome de ovario poliquístico, trastornos tiroideos o alteraciones del eje hormonal. La información que recopiles será una herramienta valiosa en esa conversación clínica."
+            }
+          ],
+          "sources": [
+            {
+              "name": "OMS — Salud menstrual",
+              "url": "https://www.who.int/news-room/fact-sheets/detail/menstrual-health-and-the-menstrual-cycle"
+            },
+            {
+              "name": "NIH Endotext — Fisiología del ciclo menstrual",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK279054/"
+            },
+            {
+              "name": "NHS — Fertilidad en el ciclo menstrual",
+              "url": "https://www.nhs.uk/conditions/periods/fertility-in-the-menstrual-cycle/"
+            }
+          ]
+        },
+        {
+          "id": "irregular-periods",
+          "title": "Menstruación irregular",
+          "subtitle": "Cuándo preocuparse y qué hacer",
+          "readingTimeMinutes": 7,
+          "body": "Un ciclo menstrual irregular es aquel cuya duración varía de forma significativa entre un periodo y otro, o cuyo patrón se aleja del rango habitual. Aunque cierta variabilidad es normal, cambios persistentes pueden señalar alteraciones hormonales, médicas o de estilo de vida. Este artículo ofrece orientación general; ante dudas, consulta siempre con un profesional de salud.",
+          "stats": [
+            {
+              "label": "Rango de ciclo considerado habitual",
+              "value": "21 a 35 días",
+              "source": "OMS"
+            },
+            {
+              "label": "Variación normal entre ciclos",
+              "value": "Hasta 7-8 días",
+              "source": "ACOG"
+            },
+            {
+              "label": "Ciclos fuera del rango 21-35 días",
+              "value": "Aprox. 9% de mujeres",
+              "source": "JMIR 2020"
+            },
+            {
+              "label": "Amenorrea: ausencia de periodo",
+              "value": "Más de 3 meses consecutivos",
+              "source": "ACOG"
+            }
+          ],
+          "sections": [
+            {
+              "title": "¿Qué significa irregular en la práctica?",
+              "content": "Un ciclo se considera irregular cuando su duración varía más de siete a nueve días entre ciclos consecutivos, según orientaciones del ACOG. Por ejemplo, si un mes tu ciclo dura 26 días y al siguiente 38, eso sugiere irregularidad. También lo son los ciclos persistentemente cortos, menores de 21 días, o largos, mayores de 35 días, definidos por la OMS como fuera del rango habitual.\n\nLa amenorrea, ausencia de menstruación durante tres meses o más en una persona que antes menstruaba, es otra forma de irregularidad que requiere evaluación. Es importante distinguir entre variaciones ocasionales, frecuentes tras el inicio de la menstruación o en la perimenopausia, y patrones anómalos sostenidos en la edad reproductiva que podrían indicar una condición subyacente que merece diagnóstico y tratamiento."
+            },
+            {
+              "title": "Causas frecuentes de irregularidad",
+              "content": "El estrés crónico, cambios bruscos de peso, ejercicio intenso, trastornos alimentarios y alteraciones del sueño pueden afectar el eje hipotálamo-hipófisis-ovario y retrasar o suprimir la ovulación. El síndrome de ovario poliquístico es una de las causas endocrinas más comunes de ciclos irregulares y está asociado a resistencia a la insulina, acné y hirsutismo en muchos casos.\n\nOtros factores incluyen trastornos tiroideos, hiperprolactinemia, ciertos medicamentos, la lactancia y la perimenopausia. En adolescentes, es frecuente que los ciclos tarden uno o dos años en regularizarse tras la menarquia. Un historial clínico detallado y pruebas dirigidas permiten al médico identificar la causa específica en cada caso sin recurrir a diagnósticos genéricos o tratamientos innecesarios."
+            },
+            {
+              "title": "Cuándo buscar ayuda médica",
+              "content": "Consulta a un ginecólogo o médico de atención primaria si experimentas ausencia de periodo durante más de tres meses sin causa aparente, sangrado entre periodos, ciclos que superan constantemente los 35 días o son menores de 21, dolor pélvico severo, o sangrado tan abundante que causa anemia o limita tu vida diaria.\n\nTambién es recomendable una evaluación si intentas concebir y tus ciclos son muy irregulares, ya que la ovulación impredecible dificulta la planificación. Llevar un registro de al menos tres a seis ciclos con fechas de inicio, duración del sangrado y síntomas facilita enormemente el diagnóstico y reduce la necesidad de pruebas repetidas o innecesarias en la consulta ginecológica."
+            },
+            {
+              "title": "Diagnóstico y opciones de manejo",
+              "content": "El abordaje médico puede incluir análisis de sangre para evaluar hormonas, prueba de embarazo, ecografía pélvica y, en algunos casos, seguimiento de la ovulación. El tratamiento depende de la causa: anticonceptivos hormonales pueden regularizar ciclos en el SOP o en casos de anovulación, mientras que el manejo del tiroides o la reducción del estrés pueden ser suficientes en otras situaciones.\n\nCambios en el estilo de vida, como alcanzar un peso saludable, moderar el ejercicio extremo, mejorar la higiene del sueño y reducir el estrés, a menudo contribuyen a la regularidad. No automediques con hormonas ni suplementos sin supervisión. Cada persona requiere un plan individualizado basado en su edad, deseos reproductivos y estado de salud general, con seguimiento periódico para evaluar la respuesta al tratamiento.\n\nEl registro digital del ciclo, como el que permite esta aplicación, ha demostrado ser una herramienta valiosa para detectar patrones que pasan desapercibidos cuando se confía solo en la memoria. Compartir estos datos con tu médico acelera el diagnóstico y evita repetir pruebas innecesarias."
+            },
+            {
+              "title": "Mitos y realidades sobre la irregularidad",
+              "content": "Es un mito frecuente que los ciclos irregulares siempre indican infertilidad o una enfermedad grave. En muchos casos, la irregularidad tiene causas reversibles como el estrés, cambios de peso o ajustes en la medicación. Otro mito es que los anticonceptivos hormonales «curan» la causa subyacente: regulan el sangrado y suprimen la ovulación, pero no tratan necesariamente la causa raíz del SOP o de otros trastornos.\n\nTampoco es cierto que deban ignorarse los ciclos irregulares en la adolescencia sin ningún seguimiento. Aunque la irregularidad inicial es esperable, un patrón persistentemente anómalo merece evaluación. La información basada en evidencia y el acompañamiento médico oportuno permiten distinguir entre variaciones normales y situaciones que requieren intervención."
+            }
+          ],
+          "sources": [
+            {
+              "name": "ACOG — Sangrado uterino anormal",
+              "url": "https://www.acog.org/womens-health/faqs/abnormal-uterine-bleeding"
+            },
+            {
+              "name": "OMS — Salud menstrual",
+              "url": "https://www.who.int/news-room/fact-sheets/detail/menstrual-health-and-the-menstrual-cycle"
+            },
+            {
+              "name": "NIH — Menstruación y trastornos menstruales",
+              "url": "https://www.nichd.nih.gov/health/topics/menstruation"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sexual_health",
+      "title": "Salud sexual",
+      "articles": [
+        {
+          "id": "sti",
+          "title": "Infecciones de transmisión sexual (ITS)",
+          "subtitle": "Prevención y detección temprana",
+          "readingTimeMinutes": 7,
+          "body": "Las infecciones de transmisión sexual son infecciones que se propagan principalmente por contacto sexual, incluyendo vaginal, anal y oral. Muchas no presentan síntomas evidentes, lo que facilita su transmisión silenciosa. Conocer los riesgos, las medidas de prevención y la importancia del tamizaje regular es fundamental para proteger tu salud sexual y reproductiva.",
+          "stats": [
+            {
+              "label": "Personas con al menos una ITS en EE.UU.",
+              "value": "1 de cada 5",
+              "source": "CDC"
+            },
+            {
+              "label": "Nuevas ITS adquiridas al año en EE.UU.",
+              "value": "Más de 20 millones",
+              "source": "CDC"
+            },
+            {
+              "label": "ITS más frecuente reportada en EE.UU.",
+              "value": "Clamidia",
+              "source": "CDC"
+            },
+            {
+              "label": "ITS que pueden ser asintomáticas",
+              "value": "Muchas (p. ej. clamidia)",
+              "source": "CDC"
+            }
+          ],
+          "sections": [
+            {
+              "title": "¿Qué son las ITS y cómo se transmiten?",
+              "content": "Las infecciones de transmisión sexual, antes llamadas enfermedades de transmisión sexual, son causadas por bacterias, virus, parásitos u hongos que se transmiten mediante contacto sexual. Entre las más conocidas se encuentran la clamidia, la gonorrea, la sífilis, el VIH, el herpes genital, el VPH y la tricomoniasis. Según los Centros para el Control y la Prevención de Enfermedades de EE.UU., aproximadamente 1 de cada 5 personas tiene una ITS en cualquier momento dado, y se registran más de 20 millones de nuevas infecciones cada año solo en ese país.\n\nLa transmisión no siempre implica penetración: el contacto de piel a piel, el intercambio de fluidos corporales y el uso compartido de material contaminado en contextos específicos también pueden propagar ciertos patógenos. Algunas ITS, como la clamidia y la gonorrea, pueden afectar la fertilidad futura si no se tratan, causando enfermedad inflamatoria pélvica y daño en las trompas de Falopio."
+            },
+            {
+              "title": "Síntomas y por qué muchas ITS pasan desapercibidas",
+              "content": "Muchas ITS son asintomáticas o presentan signos leves que se confunden con otras condiciones. La clamidia, la infección bacteriana más frecuentemente reportada en EE.UU. según el CDC, a menudo no produce síntomas visibles en mujeres, lo que retrasa el diagnóstico y aumenta el riesgo de complicaciones. Cuando aparecen síntomas, pueden incluir secreción vaginal inusual, dolor al orinar, dolor pélvico, llagas genitales o sangrado entre periodos.\n\nLa ausencia de síntomas no significa ausencia de infección ni de riesgo de transmisión. Por eso las guías de salud pública recomiendan pruebas periódicas para personas sexualmente activas, especialmente con nuevas parejas o múltiples parejas. Un diagnóstico temprano permite tratamiento efectivo en la mayoría de las ITS bacterianas y un manejo adecuado de las virales."
+            },
+            {
+              "title": "Prevención: estrategias basadas en evidencia",
+              "content": "El uso correcto y consistente del preservativo reduce significativamente el riesgo de muchas ITS, aunque no elimina por completo la transmisión de infecciones por contacto de piel a piel, como el herpes o el VPH. La vacunación contra el VPH, disponible para adolescentes y adultos jóvenes según las guías nacionales, protege contra los tipos de virus asociados a la mayoría de cánceres cervicales y verrugas genitales.\n\nLa comunicación abierta con las parejas, la limitación del número de parejas sexuales, evitar relaciones bajo los efectos del alcohol o sustancias que reduzcan el juicio, y realizarse pruebas antes de dejar de usar barreras con una pareja nueva son medidas complementarias. La profilaxis preexposición al VIH es una opción preventiva eficaz para personas con alto riesgo de adquirir esa infección, bajo prescripción y seguimiento médico."
+            },
+            {
+              "title": "Tamizaje, tratamiento y cuándo consultar",
+              "content": "El CDC recomienda pruebas anuales de clamidia y gonorrea para mujeres sexualmente activas menores de 25 años, y para mujeres mayores con factores de riesgo. También aconseja tamizaje del VIH al menos una vez y pruebas de sífilis en el embarazo. Los protocolos pueden variar según el país; consulta las guías locales de salud pública o a tu médico.\n\nLa mayoría de las ITS bacterianas se tratan con antibióticos, mientras que las virales requieren manejo crónico. Si recibes un diagnóstico, informa a tus parejas actuales y recientes para que también se evalúen. Busca atención de inmediato ante llagas genitales, fiebre con dolor pélvico, secreción con mal olor o síntomas tras una exposición de riesgo. Este contenido es informativo y no reemplaza el consejo clínico personalizado.\n\nLa prevención de ITS es responsabilidad compartida entre todas las personas sexualmente activas. Informarse, usar protección de barrera y realizarse pruebas periódicas son actos de autocuidado y de respeto hacia las parejas."
+            },
+            {
+              "title": "ITS y salud reproductiva a largo plazo",
+              "content": "Las ITS no tratadas pueden tener consecuencias serias más allá de los síntomas inmediatos. La clamidia y la gonorrea no tratadas pueden ascender al tracto reproductivo superior y causar enfermedad inflamatoria pélvica, que a su vez aumenta el riesgo de embarazo ectópico e infertilidad. El VPH de alto riesgo está asociado con lesiones precancerosas y cáncer cervical, por lo que el tamizaje con Papanicolaou y las pruebas de VPH según las guías locales son fundamentales.\n\nEl VIH, si no se diagnostica y trata, puede progresar a sida. Sin embargo, con diagnóstico temprano y tratamiento antirretroviral, las personas con VIH pueden tener una esperanza de vida cercana a la normal y embarazos seguros con el manejo adecuado. La detección temprana transforma el pronóstico de prácticamente todas las ITS."
+            }
+          ],
+          "sources": [
+            {
+              "name": "CDC — Datos y estadísticas de ITS",
+              "url": "https://www.cdc.gov/sti/statistics/"
+            },
+            {
+              "name": "CDC — Información general sobre ITS",
+              "url": "https://www.cdc.gov/sti/about/"
+            },
+            {
+              "name": "OMS — Infecciones de transmisión sexual",
+              "url": "https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)"
+            }
+          ]
+        },
+        {
+          "id": "contraceptives",
+          "title": "Anticonceptivos",
+          "subtitle": "Opciones y cómo elegir",
+          "readingTimeMinutes": 8,
+          "body": "Los métodos anticonceptivos permiten prevenir embarazos no deseados y, en algunos casos, ofrecen beneficios adicionales como regulación del ciclo o reducción del dolor menstrual. No existe un método único ideal para todas las personas: la elección depende de la eficacia deseada, las preferencias personales, las condiciones de salud y el acceso a servicios médicos.",
+          "stats": [
+            {
+              "label": "Fallo con uso típico de la píldora",
+              "value": "7%",
+              "source": "CDC"
+            },
+            {
+              "label": "Fallo con uso típico del preservativo",
+              "value": "13%",
+              "source": "CDC"
+            },
+            {
+              "label": "Fallo con DIU y implante (LARC)",
+              "value": "Menos del 1%",
+              "source": "CDC"
+            },
+            {
+              "label": "Mujeres en edad fértil que usan anticoncepción",
+              "value": "Aprox. 65% globalmente",
+              "source": "OMS"
+            }
+          ],
+          "sections": [
+            {
+              "title": "Tipos de métodos anticonceptivos",
+              "content": "Los anticonceptivos se clasifican en métodos de barrera, como el preservativo masculino y femenino, que además reducen el riesgo de ITS; métodos hormonales, como la píldora, el parche, el anillo vaginal, el implante subdérmico y el DIU hormonal; métodos de larga duración reversible, como el DIU de cobre y el implante; y métodos basados en el conocimiento del ciclo, como el método sintotérmico o la observación del moco cervical.\n\nTambién existen la esterilización quirúrgica y la anticoncepción de emergencia, que no debe usarse como método habitual sino como recurso tras una relación sin protección o un fallo anticonceptivo. Cada categoría tiene ventajas, limitaciones y requisitos de uso distintos que conviene discutir con un profesional de salud capacitado en planificación familiar."
+            },
+            {
+              "title": "Eficacia: uso perfecto versus uso típico",
+              "content": "La eficacia anticonceptiva se expresa como tasa de fallo por 100 mujeres en un año. Según el CDC, con uso típico, la píldora combinada tiene una tasa de fallo del 7%, el preservativo masculino del 13%, mientras que los métodos de larga duración reversible como el DIU y el implante presentan tasas inferiores al 1% con uso típico.\n\nLa diferencia entre uso perfecto y uso típico refleja olvidos, errores de aplicación o interacciones con medicamentos. Por eso, al elegir un método, es tan importante su eficacia teórica como tu capacidad real de usarlo de forma consistente. Los LARC son especialmente recomendados por organizaciones como la OMS y el ACOG para quienes desean alta eficacia sin depender de la adherencia diaria."
+            },
+            {
+              "title": "Beneficios más allá de la contracepción",
+              "content": "Los métodos hormonales pueden regularizar ciclos irregulares, reducir el sangrado abundante y aliviar el dolor menstrual y los síntomas del SPM en muchas personas. Algunos tipos de píldora anticonceptiva están indicados específicamente para el tratamiento del acné hormonal o del SOP bajo supervisión médica. El DIU de cobre ofrece contracepción altamente eficaz sin hormonas durante hasta 10 años.\n\nSin embargo, los métodos hormonales también pueden tener efectos secundarios: náuseas, cambios de humor, sensibilidad mamaria o spotting intermenstrual, especialmente en los primeros meses. Un profesional de salud evaluará contraindicaciones como antecedentes de trombosis, ciertos tipos de migraña con aura, tabaquismo en mayores de 35 años o cáncer hormonodependiente antes de recetar anticonceptivos hormonales combinados."
+            },
+            {
+              "title": "Cómo elegir el método adecuado",
+              "content": "La decisión debe considerar si deseas un embarazo en el futuro cercano, si necesitas protección contra ITS, si prefieres un método diario, mensual o de larga duración, y si tienes condiciones médicas que limiten ciertas opciones. La anticoncepción de emergencia con levonorgestrel o ulipristal es segura y más eficaz cuanto antes se administre tras la relación sin protección, idealmente dentro de las primeras 72 a 120 horas.\n\nPrograma una consulta de planificación familiar para revisar tu historial clínico, aclarar dudas y establecer un plan de seguimiento. Si un método no te funciona por efectos secundarios o por dificultad de uso, existen alternativas. La anticoncepción es un derecho de salud sexual y reproductiva reconocido internacionalmente; buscar información fiable y apoyo profesional es el primer paso para una elección informada.\n\nRecuerda que ningún método anticonceptivo, excepto la abstinencia completa, ofrece protección del 100%. Combinar métodos, como píldora más preservativo, puede aumentar la eficacia y añadir protección contra ITS cuando sea necesario."
+            },
+            {
+              "title": "Acceso y derechos en salud reproductiva",
+              "content": "El acceso a métodos anticonceptivos seguros y asequibles es un componente esencial de la salud pública reconocido por la OMS. Sin embargo, las barreras persisten: costo, falta de información, estigma cultural o restricciones geográficas. Conocer tus derechos y las opciones disponibles en tu sistema de salud te permite tomar decisiones informadas.\n\nSi experimentas efectos secundarios con un método, no dudes en volver a consultar. Cambiar de método es una opción válida y frecuente. La anticoncepción de emergencia está disponible sin receta en muchos países y no afecta la fertilidad futura, aunque no debe usarse como método habitual."
+            }
+          ],
+          "sources": [
+            {
+              "name": "CDC — Eficacia de los métodos anticonceptivos",
+              "url": "https://www.cdc.gov/contraception/hcp/appendix-f.html"
+            },
+            {
+              "name": "OMS — Salud reproductiva y anticoncepción",
+              "url": "https://www.who.int/health-topics/contraception"
+            },
+            {
+              "name": "ACOG — Elección de anticonceptivos",
+              "url": "https://www.acog.org/womens-health/faqs/birth-control"
+            }
+          ]
+        },
+        {
+          "id": "fertility",
+          "title": "Fertilidad",
+          "subtitle": "Entendiendo tu ventana fértil",
+          "readingTimeMinutes": 7,
+          "body": "La fertilidad es la capacidad de concebir un embarazo y depende de múltiples factores: la ovulación regular, la calidad del óvulo y del esperma, la edad y la salud general. Comprender la ventana fértil —los días del ciclo en que la concepción es más probable— resulta útil tanto para quienes planean un embarazo como para quienes practican métodos basados en el conocimiento del ciclo.",
+          "stats": [
+            {
+              "label": "Parejas que conciben en 1 año de intentos",
+              "value": "Aprox. 80-85%",
+              "source": "NHS"
+            },
+            {
+              "label": "Probabilidad de embarazo por ciclo (pareja sana)",
+              "value": "Aprox. 20-25%",
+              "source": "ACOG"
+            },
+            {
+              "label": "Supervivencia del espermatozoide",
+              "value": "Hasta 5 días",
+              "source": "NHS"
+            },
+            {
+              "label": "Edad con mayor fertilidad natural",
+              "value": "Antes de los 30 años",
+              "source": "ACOG"
+            }
+          ],
+          "sections": [
+            {
+              "title": "La ventana fértil: cuándo ocurre",
+              "content": "La ventana fértil abarca aproximadamente seis días en cada ciclo: los cinco días previos a la ovulación y el día de la ovulación misma. Esto se debe a que los espermatozoides pueden sobrevivir en el tracto reproductivo femenino hasta cinco días, según el NHS, mientras que el óvulo permanece viable entre 12 y 24 horas tras ser liberado.\n\nLa ovulación suele ocurrir unos 14 días antes del inicio del siguiente periodo, aunque la fase folicular es variable y esto puede cambiar de un ciclo a otro. Tener relaciones sexuales cada uno o dos días durante la ventana fértil maximiza las probabilidades de concepción sin necesidad de calcular el día exacto de la ovulación con precisión milimétrica, según recomendaciones del ACOG."
+            },
+            {
+              "title": "Signos de fertilidad que puedes observar",
+              "content": "El cuerpo ofrece señales de fertilidad que pueden registrarse diariamente. El moco cervical se vuelve más abundante, claro y elástico, similar a la clara de huevo, en los días previos a la ovulación. La temperatura corporal basal, medida al despertar antes de levantarse, aumenta ligeramente tras la ovulación y permanece elevada hasta el siguiente periodo.\n\nLos tests de ovulación detectan el pico de LH en orina, que precede a la ovulación entre 24 y 36 horas. Combinar varios métodos, como el método sintotérmico, mejora la precisión. Estas técnicas requieren aprendizaje y constancia; si las usas como anticoncepción, recibe formación adecuada, ya que su tasa de fallo con uso típico es mayor que la de los métodos hormonales o los LARC."
+            },
+            {
+              "title": "Factores que afectan la fertilidad",
+              "content": "La edad es el factor más determinante: la reserva ovárica y la calidad de los óvulos disminuyen con el tiempo, especialmente después de los 35 años, según el ACOG. Otros factores incluyen peso muy bajo o muy elevado, tabaquismo, consumo excesivo de alcohol, estrés crónico, enfermedad inflamatoria pélvica, endometriosis, SOP y trastornos del tiroides.\n\nEn las parejas, la fertilidad masculina también influye: la calidad y concentración espermática pueden verse afectadas por fiebre, ciertos medicamentos, exposición a calor excesivo y estilo de vida. Si llevas más de un año intentando concebir sin éxito, o más de seis meses si tienes más de 35 años, conviene una evaluación de fertilidad para ambos miembros de la pareja."
+            },
+            {
+              "title": "Cuándo buscar ayuda especializada",
+              "content": "Según el NHS, aproximadamente el 80 al 85% de las parejas en edad fértil conciben dentro del primer año de intentos regulares sin protección. Si no ocurre en ese plazo, o antes si hay factores de riesgo conocidos, un especialista en reproducción puede evaluar la ovulación, la reserva ovárica, la permeabilidad tubárica y la calidad seminal.\n\nLos tratamientos van desde la inducción de la ovulación con medicamentos hasta la inseminación intrauterina o la fecundación in vitro, según el diagnóstico. Mientras tanto, mantener un peso saludable, tomar ácido fólico si planeas concebir, reducir el estrés y evitar tabaco y alcohol excesivo son medidas de apoyo con respaldo científico. La fertilidad es un proceso biológico que merece paciencia, información y acompañamiento profesional cuando sea necesario.\n\nLa paciencia y el autocuidado son parte del proceso. Si la ansiedad por concebir afecta tu bienestar emocional, buscar apoyo psicológico o grupos de apoyo puede ser tan importante como la evaluación médica."
+            },
+            {
+              "title": "Fertilidad y bienestar emocional",
+              "content": "El camino hacia la concepción puede generar ansiedad, frustración y tensión en la pareja, especialmente cuando los meses pasan sin resultado. Es importante reconocer que la fertilidad es un proceso biológico que no siempre obedece a la voluntad ni al esfuerzo. Buscar apoyo emocional, ya sea con un psicólogo, un grupo de apoyo o personas de confianza, puede aliviar la carga emocional.\n\nEvita culparte o culpar a tu pareja. Factores como la edad, la genética y condiciones médicas están fuera del control personal. Lo que sí está en tus manos es buscar evaluación oportuna, mantener hábitos saludables y comunicarte abiertamente con tu pareja sobre expectativas y límites en el proceso."
+            }
+          ],
+          "sources": [
+            {
+              "name": "NHS — Fertilidad en el ciclo menstrual",
+              "url": "https://www.nhs.uk/conditions/periods/fertility-in-the-menstrual-cycle/"
+            },
+            {
+              "name": "ACOG — Evaluación de la infertilidad",
+              "url": "https://www.acog.org/womens-health/faqs/evaluating-infertility"
+            },
+            {
+              "name": "OMS — Salud reproductiva",
+              "url": "https://www.who.int/health-topics/sexual-and-reproductive-health-and-research"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pregnancy",
+      "title": "Embarazo",
+      "articles": [
+        {
+          "id": "early-symptoms",
+          "title": "Primeros síntomas de embarazo",
+          "subtitle": "Señales tempranas a observar",
+          "readingTimeMinutes": 6,
+          "body": "Los primeros signos de embarazo pueden aparecer antes de que un test casero dé positivo, aunque muchos síntomas también se parecen a los del síndrome premenstrual. Reconocer las señales tempranas ayuda a buscar confirmación médica oportuna y a iniciar cuidados prenatales en el momento adecuado.",
+          "stats": [
+            {
+              "label": "Sensibilidad de pruebas caseras (día de retraso)",
+              "value": "Aprox. 99%",
+              "source": "NHS"
+            },
+            {
+              "label": "Mujeres con náuseas en el primer trimestre",
+              "value": "Aprox. 70-80%",
+              "source": "ACOG"
+            },
+            {
+              "label": "Implantación del embrión",
+              "value": "6 a 12 días post-ovulación",
+              "source": "NIH"
+            },
+            {
+              "label": "Inicio recomendado de cuidados prenatales",
+              "value": "Lo antes posible",
+              "source": "CDC"
+            }
+          ],
+          "sections": [
+            {
+              "title": "Señales tempranas más frecuentes",
+              "content": "El síntoma más conocido es la ausencia del periodo, especialmente en ciclos regulares. Sin embargo, otros signos pueden preceder o acompañar al retraso menstrual: sensibilidad o hinchazón de los senos, fatiga inusual, náuseas matutinas o en cualquier momento del día, aumento de la frecuencia urinaria, cambios en el gusto u olfato, y ligero sangrado de implantación.\n\nSegún el ACOG, entre el 70 y el 80% de las embarazadas experimentan náuseas en el primer trimestre, aunque su intensidad varía enormemente. Algunas personas no presentan ningún síntoma significativo al inicio, lo cual también puede ser completamente normal. La ausencia de síntomas no descarta un embarazo, del mismo modo que su presencia no lo confirma sin una prueba."
+            },
+            {
+              "title": "Diferencias con el síndrome premenstrual",
+              "content": "El SPM y el embarazo temprano comparten síntomas: sensibilidad mamaria, fatiga, cambios de humor, hinchazón y antojos. La clave diferencial suele ser la persistencia de los síntomas más allá de la fecha esperada del periodo y la intensidad de ciertos signos, como las náuseas con aversión a olores específicos.\n\nEl sangrado de implantación, si ocurre, suele ser más ligero y breve que un periodo normal, de color rosado o marrón, y aparece alrededor de 6 a 12 días después de la ovulación, según el NIH. No todas las embarazadas lo experimentan. Ante la duda, una prueba de embarazo en orina a partir del primer día de retraso menstrual ofrece resultados fiables en la mayoría de los casos, según el NHS."
+            },
+            {
+              "title": "Cuándo y cómo confirmar el embarazo",
+              "content": "Las pruebas caseras de embarazo detectan la hormona gonadotropina coriónica humana en orina. Su sensibilidad alcanza aproximadamente el 99% el día del retraso menstrual si se usan correctamente, según el NHS. Realizar la prueba con la primera orina de la mañana, cuando la concentración hormonal es mayor, puede mejorar la detección en etapas muy tempranas.\n\nUna prueba de sangre en un laboratorio puede detectar el embarazo antes y cuantificar los niveles de hCG, útil para monitorizar embarazos de alto riesgo. Si el resultado es positivo, programa una consulta prenatal lo antes posible: el CDC recomienda iniciar cuidados prenatales tempranos para reducir riesgos de complicaciones y promover el desarrollo saludable del feto."
+            },
+            {
+              "title": "Próximos pasos y señales de alerta",
+              "content": "Tras confirmar el embarazo, comienza o continúa la suplementación de ácido fólico si aún no lo haces, evita alcohol y tabaco, y revisa con tu médico los medicamentos que tomas. Un estilo de vida saludable, alimentación equilibrada y descanso adecuado benefician tanto a la gestante como al embrión en desarrollo.\n\nBusca atención urgente si experimentas dolor abdominal intenso unilateral, sangrado abundante con mareos, fiebre o vómitos incapacitantes. Estos síntomas podrían indicar embarazo ectópico u otras complicaciones que requieren evaluación inmediata. Este artículo es orientativo; cada embarazo es único y merece seguimiento profesional personalizado desde el inicio.\n\nCada embarazo es único: algunas personas tienen síntomas intensos desde el inicio y otras apenas los notan. Lo fundamental es confirmar con una prueba y establecer seguimiento prenatal temprano."
+            },
+            {
+              "title": "Primeros cuidados tras la confirmación",
+              "content": "Una vez confirmado el embarazo, los primeros cuidados incluyen programar la primera consulta prenatal, revisar la medicación actual con tu médico y comenzar o continuar la suplementación de ácido fólico. Evita alcohol, tabaco y drogas recreativas, y limita la cafeína según las recomendaciones de tu profesional de salud.\n\nAlgunos medicamentos de venta libre no son seguros durante el embarazo, incluyendo ciertos antiinflamatorios en el primer trimestre. Consulta antes de tomar cualquier fármaco. Mantén una alimentación variada y segura, evitando alimentos crudos de alto riesgo como ciertos pescados con alto contenido de mercurio, carnes poco cocidas y quesos no pasteurizados según las guías de tu país.\n\nSi el resultado de la prueba es negativo pero los síntomas persisten y el periodo no llega, repite la prueba en unos días. Los niveles de hCG pueden ser demasiado bajos para detectarse en etapas muy tempranas. Un análisis de sangre cuantitativo ofrece mayor sensibilidad y permite monitorizar el progreso del embarazo si es necesario."
+            }
+          ],
+          "sources": [
+            {
+              "name": "NHS — Signos y síntomas del embarazo",
+              "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/signs-and-symptoms-of-pregnancy/"
+            },
+            {
+              "name": "ACOG — Primer trimestre del embarazo",
+              "url": "https://www.acog.org/womens-health/faqs/first-trimester"
+            },
+            {
+              "name": "CDC — Cuidados prenatales",
+              "url": "https://www.cdc.gov/pregnancy/during/index.html"
+            }
+          ]
+        },
+        {
+          "id": "ovulation-pregnancy",
+          "title": "Ovulación y embarazo",
+          "subtitle": "Cómo se relacionan",
+          "readingTimeMinutes": 7,
+          "body": "La ovulación es el evento central que hace posible la concepción: sin un óvulo maduro liberado del ovario, no puede producirse un embarazo. Comprender la relación entre ovulación, espermatozoides y el momento de la fecundación permite planificar o prevenir un embarazo con mayor conocimiento del propio cuerpo.",
+          "stats": [
+            {
+              "label": "Ovulación antes del siguiente periodo",
+              "value": "Aprox. 14 días",
+              "source": "NIH Endotext"
+            },
+            {
+              "label": "Vida del óvulo tras ovulación",
+              "value": "12 a 24 horas",
+              "source": "NHS"
+            },
+            {
+              "label": "Supervivencia de espermatozoides",
+              "value": "Hasta 5 días",
+              "source": "NHS"
+            },
+            {
+              "label": "Probabilidad de concepción por ciclo",
+              "value": "Aprox. 20-25%",
+              "source": "ACOG"
+            }
+          ],
+          "sections": [
+            {
+              "title": "El proceso de la ovulación",
+              "content": "La ovulación es la liberación de un óvulo maduro desde el ovario hacia la trompa de Falopio, donde puede encontrarse con espermatozoides. Es desencadenada por un pico de hormona luteinizante que ocurre aproximadamente 14 días antes del inicio del siguiente periodo menstrual, según el NIH Endotext, aunque esta cifra varía si la fase folicular es más larga o más corta.\n\nEl folículo que liberó el óvulo se transforma en cuerpo lúteo, que produce progesterona para preparar el endometrio. Si la fecundación tiene éxito, el embrión viaja hacia el útero e se implanta entre 6 y 12 días después de la ovulación. Si no hay fecundación, el cuerpo lúteo degenera y comienza un nuevo ciclo menstrual."
+            },
+            {
+              "title": "La fecundación y la ventana de oportunidad",
+              "content": "La fecundación ocurre cuando un espermatozoide penetra el óvulo en la trompa de Falopio. Dado que el óvulo vive solo entre 12 y 24 horas tras la ovulación, según el NHS, y los espermatozoides pueden sobrevivir hasta cinco días en el tracto reproductivo femenino, el periodo fértil real se extiende varios días antes de la ovulación.\n\nLas relaciones sexuales en los dos días previos a la ovulación y el día de la ovulación ofrecen las mayores probabilidades de embarazo. El ACOG estima que una pareja sana tiene aproximadamente un 20 al 25% de probabilidad de concebir en cada ciclo ovulatorio. Esto explica por qué incluso con buena planificación puede tomar varios meses lograr un embarazo de forma natural."
+            },
+            {
+              "title": "Cómo detectar la ovulación",
+              "content": "Existen varios métodos para identificar la ovulación. Los tests de LH en orina detectan el pico hormonal que precede la ovulación entre 24 y 36 horas. La observación del moco cervical revela un patrón más elástico y transparente en los días fértiles. La temperatura basal corporal confirma la ovulación retrospectivamente al detectar un aumento sostenido de aproximadamente 0,2 a 0,5 grados Celsius tras la liberación del óvulo.\n\nLa ecografía folicular en contexto clínico permite visualizar directamente el crecimiento y la ruptura del folículo. Para uso cotidiano, combinar dos o más métodos mejora la precisión. Si tus ciclos son irregulares, la ovulación es más difícil de predecir y puede ser conveniente consultar a un especialista antes de basar decisiones reproductivas únicamente en el calendario."
+            },
+            {
+              "title": "Ovulación, anticoncepción y planificación familiar",
+              "content": "Los anticonceptivos hormonales y los DIU previenen el embarazo principalmente inhibiendo la ovulación o alterando el entorno cervical y endometrial. Los métodos de barrera impiden el encuentro entre espermatozoides y óvulo. Los métodos basados en el conocimiento del ciclo requieren abstinencia o uso de barrera en los días fértiles identificados.\n\nSi buscas concebir, mantener relaciones sexuales regulares durante la ventana fértil es más efectivo que concentrarlas solo el día calculado de ovulación, dada la variabilidad biológica. Si tras un año de intentos no logras el embarazo, o seis meses si tienes más de 35 años, una evaluación médica puede determinar si la ovulación ocurre de forma adecuada y si existen otros factores que influyan en la fertilidad de la pareja.\n\nEl conocimiento del ciclo empodera, pero no reemplaza la consulta médica cuando hay dificultades para concebir o para evitar un embarazo de forma fiable."
+            },
+            {
+              "title": "Mitos sobre la concepción",
+              "content": "Un mito extendido es que la ovulación siempre ocurre el día 14 del ciclo. En realidad, solo es una aproximación para ciclos de 28 días; en ciclos más largos o cortos, la ovulación se desplaza. Otro mito es que las posiciones sexuales o permanecer acostada tras la relación aumentan significativamente las probabilidades de embarazo; la evidencia no respalda estas creencias de forma concluyente.\n\nTampoco es cierto que no se pueda quedar embarazada durante la menstruación, especialmente en ciclos cortos donde la ovulación temprana coincide con el final del sangrado. El conocimiento basado en evidencia es más fiable que los consejos populares no verificados."
+            }
+          ],
+          "sources": [
+            {
+              "name": "NIH Endotext — Fisiología del ciclo menstrual",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK279054/"
+            },
+            {
+              "name": "NHS — Fertilidad en el ciclo menstrual",
+              "url": "https://www.nhs.uk/conditions/periods/fertility-in-the-menstrual-cycle/"
+            },
+            {
+              "name": "ACOG — Evaluación de la infertilidad",
+              "url": "https://www.acog.org/womens-health/faqs/evaluating-infertility"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wellness",
+      "title": "Bienestar",
+      "articles": [
+        {
+          "id": "nutrition",
+          "title": "Alimentación y ciclo menstrual",
+          "subtitle": "Nutrición para cada fase",
+          "readingTimeMinutes": 7,
+          "body": "La alimentación influye en la salud hormonal, la energía y la intensidad de los síntomas menstruales. Aunque no existe una dieta única para el ciclo menstrual, ciertos nutrientes apoyan la producción de hormonas, compensan las pérdidas del sangrado y pueden atenuar molestias como cólicos o fatiga premenstrual.",
+          "stats": [
+            {
+              "label": "Mujeres con anemia por deficiencia de hierro",
+              "value": "Aprox. 30% mundialmente",
+              "source": "OMS"
+            },
+            {
+              "label": "Pérdida de hierro por menstruación abundante",
+              "value": "Hasta 15-20% del total corporal",
+              "source": "NIH"
+            },
+            {
+              "label": "Magnesio y reducción de cólicos",
+              "value": "Evidencia moderada de beneficio",
+              "source": "NIH ODS"
+            },
+            {
+              "label": "Ácido fólico recomendado si buscas embarazo",
+              "value": "400 mcg diarios",
+              "source": "CDC"
+            }
+          ],
+          "sections": [
+            {
+              "title": "Nutrientes clave durante la menstruación",
+              "content": "Durante el sangrado menstrual, el cuerpo pierde hierro. La Organización Mundial de la Salud estima que aproximadamente el 30% de las mujeres en edad reproductiva a nivel mundial tienen anemia, frecuentemente por deficiencia de hierro. Incluir fuentes de hierro como carnes magras, legumbres, espinacas y cereales fortificados, junto con vitamina C para mejorar su absorción, ayuda a prevenir o corregir esta deficiencia.\n\nEl magnesio, presente en frutos secos, semillas, chocolate negro y verduras de hoja verde, ha mostrado en algunos estudios una reducción moderada de los cólicos menstruales y la retención de líquidos. Mantener una hidratación adecuada también puede aliviar la hinchazón y la fatiga asociadas al periodo."
+            },
+            {
+              "title": "Alimentación en la fase folicular y ovulatoria",
+              "content": "En la primera mitad del ciclo, cuando los niveles de estrógeno aumentan, una alimentación rica en proteínas, grasas saludables y carbohidratos complejos sostiene la energía y la síntesis hormonal. Los ácidos grasos omega-3, presentes en pescado graso, semillas de chía y nueces, poseen propiedades antiinflamatorias que pueden beneficiar la salud reproductiva en general.\n\nLos alimentos fermentados y con fibra favorecen la salud intestinal, cada vez más reconocida como influente en el metabolismo hormonal. Evitar dietas extremadamente restrictivas es importante: el déficit calórico severo puede suprimir la ovulación y alterar el ciclo menstrual, especialmente en combinación con ejercicio intenso."
+            },
+            {
+              "title": "Fase lútea y manejo del SPM alimentario",
+              "content": "En la fase premenstrual, muchas personas experimentan antojos de azúcar y sal. Reducir el consumo excesivo de sodio puede disminuir la retención de líquidos, mientras que limitar la cafeína en personas sensibles puede mejorar la irritabilidad y el sueño. El calcio y la vitamina D han mostrado en ensayos clínicos una reducción modesta de algunos síntomas del SPM.\n\nComer comidas regulares con proteína y fibra estabiliza la glucosa en sangre y puede atenuar los cambios de humor relacionados con los antojos. No existe evidencia sólida de que eliminar grupos alimentarios enteros mejore el ciclo menstrual; una dieta mediterránea equilibrada, variada y basada en alimentos integrales es la recomendación más respaldada para la salud general y hormonal."
+            },
+            {
+              "title": "Suplementos y precauciones",
+              "content": "Si planeas concebir, el CDC recomienda 400 microgramos diarios de ácido fólico para prevenir defectos del tubo neural. El hierro solo debe suplementarse si hay deficiencia confirmada por análisis de sangre, ya que el exceso también es perjudicial. Consulta a un profesional de salud antes de iniciar suplementos de dosis altas de vitamina A, hierbas o productos no regulados que prometen equilibrar hormonas.\n\nUn nutricionista o dietista puede ayudarte a diseñar un plan personalizado si tienes restricciones alimentarias, trastornos alimentarios previos o condiciones como SOP, endometriosis o anemia. La alimentación es un pilar del bienestar menstrual, pero funciona mejor como complemento de hábitos globales de salud y atención médica cuando sea necesaria.\n\nLa relación entre alimentación y ciclo menstrual es individual. Lo que funciona para una persona puede no ser necesario para otra; la clave está en la variedad, el equilibrio y la escucha del propio cuerpo."
+            },
+            {
+              "title": "Alimentación y condiciones menstruales específicas",
+              "content": "En el síndrome de ovario poliquístico, una dieta con bajo índice glucémico y reducción de carbohidratos refinados puede mejorar la sensibilidad a la insulina y, en algunos casos, regular los ciclos. En la endometriosis, una dieta antiinflamatoria rica en omega-3 y baja en carnes rojas procesadas ha mostrado beneficio en algunos estudios, aunque la evidencia sigue evolucionando.\n\nPara personas con trastornos alimentarios, la relación entre comida y ciclo requiere abordaje multidisciplinario con nutricionistas y psicólogos especializados. La restricción calórica severa puede suprimir la menstruación y comprometer la salud ósea y cardiovascular a largo plazo.\n\nLa hidratación adecuada, con al menos ocho vasos de agua al día como referencia general, apoya la digestión, la circulación y puede reducir la hinchazón premenstrual. Limitar el alcohol, que afecta el hígado y el metabolismo hormonal, también contribuye al equilibrio general durante todo el ciclo."
+            }
+          ],
+          "sources": [
+            {
+              "name": "OMS — Anemia",
+              "url": "https://www.who.int/news-room/fact-sheets/detail/anaemia"
+            },
+            {
+              "name": "CDC — Ácido fólico y embarazo",
+              "url": "https://www.cdc.gov/folic-acid/about/index.html"
+            },
+            {
+              "name": "NIH ODS — Magnesio",
+              "url": "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/"
+            }
+          ]
+        },
+        {
+          "id": "exercise",
+          "title": "Ejercicio según tu ciclo",
+          "subtitle": "Adapta tu rutina a cada fase",
+          "readingTimeMinutes": 6,
+          "body": "El ejercicio físico regular beneficia la salud cardiovascular, el estado de ánimo y la regulación hormonal. Adaptar la intensidad y el tipo de entrenamiento a las distintas fases del ciclo menstrual puede mejorar el rendimiento y reducir molestias, siempre escuchando las señales de tu propio cuerpo.",
+          "stats": [
+            {
+              "label": "Actividad física recomendada para adultos",
+              "value": "150 min/semana moderada",
+              "source": "OMS"
+            },
+            {
+              "label": "Mujeres con dismenorrea que mejoran con ejercicio",
+              "value": "Evidencia de beneficio",
+              "source": "ACOG"
+            },
+            {
+              "label": "Reducción de síntomas de SPM con ejercicio regular",
+              "value": "Evidencia moderada",
+              "source": "ACOG"
+            },
+            {
+              "label": "Ejercicio extremo y alteración del ciclo",
+              "value": "Puede suprimir ovulación",
+              "source": "NIH"
+            }
+          ],
+          "sections": [
+            {
+              "title": "Beneficios del ejercicio para la salud menstrual",
+              "content": "La actividad física regular está asociada con ciclos más regulares, mejor estado de ánimo y reducción de los síntomas del síndrome premenstrual, según el ACOG. El ejercicio aeróbico moderado, como caminar, nadar o andar en bicicleta, libera endorfinas que actúan como analgésicos naturales y pueden aliviar los cólicos menstruales en muchas personas.\n\nLa Organización Mundial de la Salud recomienda al menos 150 minutos semanales de actividad moderada o 75 minutos de actividad vigorosa para adultos, complementados con ejercicios de fortalecimiento muscular dos o más días a la semana. Estas metas aplican también durante el ciclo menstrual, con ajustes según cómo te sientas cada día."
+            },
+            {
+              "title": "Entrenar durante la menstruación",
+              "content": "Contrario al mito de que hay que descansar completamente durante el periodo, muchas personas pueden y se benefician de mantener actividad física ligera a moderada. El yoga, el pilates, la caminata y el entrenamiento de baja intensidad pueden reducir el dolor menstrual y mejorar el estado de ánimo sin añadir estrés al cuerpo.\n\nSi experimentas fatiga o cólicos intensos, reduce la intensidad o prioriza el descanso activo: estiramientos suaves, respiración diafragmática o una caminata corta. El calor local combinado con movimiento gentil suele ser más efectivo que el reposo absoluto prolongado. Escucha tu cuerpo: no hay una regla universal sobre qué entrenamiento es correcto durante la menstruación."
+            },
+            {
+              "title": "Fase folicular, ovulación y fase lútea",
+              "content": "Durante la fase folicular, el aumento gradual de estrógeno suele acompañarse de mayor energía y tolerancia al esfuerzo. Es un buen momento para entrenamientos de mayor intensidad, fuerza o entrenamientos de alta intensidad por intervalos si tu cuerpo lo permite. En la ovulación, algunas atletas reportan su mejor rendimiento, aunque otras notan ligera inestabilidad articular por el efecto del estrógeno en los ligamentos.\n\nEn la fase lútea, la progesterona puede aumentar la temperatura corporal basal y la sensación de fatiga. Priorizar entrenamientos de resistencia moderada, yoga o ejercicios de movilidad puede resultar más sostenible. Si notas hinchazón o retención de líquidos, mantener la hidratación y evitar compararte con semanas de mayor rendimiento ayuda a sostener la constancia a largo plazo."
+            },
+            {
+              "title": "Precauciones y equilibrio",
+              "content": "El ejercicio excesivo combinado con bajo peso corporal puede suprimir la ovulación y causar amenorrea hipotalámica, según el NIH. Si tu periodo desaparece tras aumentar significativamente tu carga de entrenamiento, consulta a un médico deportivo o ginecólogo. La regla general es que el ejercicio debe sumar bienestar, no restarlo.\n\nTrabaja con entrenadores o profesionales que comprendan la fisiología femenina si compites a alto nivel. Para la mayoría de las personas, moverse de forma regular a lo largo de todo el ciclo, con flexibilidad en la intensidad, es la estrategia más saludable y sostenible. Combina actividad física con descanso adecuado, nutrición suficiente y sueño reparador para un enfoque integral del bienestar menstrual.\n\nEl movimiento regular es un regalo para tu salud menstrual a largo plazo. La constancia importa más que la perfección en cada sesión de entrenamiento."
+            },
+            {
+              "title": "Ejercicio y condiciones ginecológicas",
+              "content": "En la endometriosis, el ejercicio regular de bajo a moderado impacto puede reducir el dolor pélvico crónico y mejorar la calidad de vida, aunque durante los brotes agudos puede ser necesario reducir la intensidad. En el SOP, la actividad física combinada con cambios dietéticos mejora la sensibilidad a la insulina y puede favorecer la ovulación.\n\nLas personas con dismenorrea severa no deben sentirse presionadas a entrenar con intensidad durante el periodo. El descanso activo es una forma legítima y beneficiosa de movimiento. Consulta con un fisioterapeuta pélvico si experimentas dolor con el ejercicio que no mejora con el tiempo.\n\nEscuchar las señales de tu cuerpo es más importante que seguir un plan de entrenamiento rígido. Si un día necesitas descanso, concedételo sin culpa. La recuperación es parte del entrenamiento y de la salud menstrual integral."
+            }
+          ],
+          "sources": [
+            {
+              "name": "OMS — Actividad física",
+              "url": "https://www.who.int/news-room/fact-sheets/detail/physical-activity"
+            },
+            {
+              "name": "ACOG — Ejercicio durante el embarazo y la menstruación",
+              "url": "https://www.acog.org/womens-health/faqs/exercise-during-pregnancy"
+            },
+            {
+              "name": "NIH — Amenorrea y ejercicio",
+              "url": "https://www.nichd.nih.gov/health/topics/amenorrhea"
+            }
+          ]
+        },
+        {
+          "id": "sleep",
+          "title": "Sueño y ciclo menstrual",
+          "subtitle": "Cómo las hormonas afectan tu descanso",
+          "readingTimeMinutes": 6,
+          "body": "Las fluctuaciones hormonales a lo largo del ciclo menstrual pueden alterar la calidad y la cantidad de sueño. Comprender estos cambios permite adaptar hábitos de descanso y buscar apoyo cuando los trastornos del sueño afecten significativamente tu bienestar diario.",
+          "stats": [
+            {
+              "label": "Adultos que necesitan 7+ horas de sueño",
+              "value": "Recomendación para adultos",
+              "source": "CDC"
+            },
+            {
+              "label": "Mujeres con insomnio premenstrual",
+              "value": "Aprox. 25-33%",
+              "source": "NIH"
+            },
+            {
+              "label": "Fase del ciclo con más quejas de sueño",
+              "value": "Fase lútea tardía",
+              "source": "NIH"
+            },
+            {
+              "label": "Temperatura corporal basal en fase lútea",
+              "value": "Aumenta 0,3-0,5 °C",
+              "source": "NIH Endotext"
+            }
+          ],
+          "sections": [
+            {
+              "title": "Cómo las hormonas influyen en el sueño",
+              "content": "El estrógeno y la progesterona modulan el sueño de distintas maneras. La progesterona, que aumenta tras la ovulación, tiene un efecto sedante natural y puede provocar somnolencia diurna en la fase lútea temprana. Sin embargo, en los días previos al periodo, cuando ambas hormonas caen bruscamente, muchas personas experimentan dificultad para conciliar el sueño, despertares nocturnos y sueños más vívidos.\n\nSegún investigaciones del NIH, entre el 25 y el 33% de las mujeres en edad reproductiva reportan síntomas de insomnio premenstrual, especialmente en la fase lútea tardía. La elevación de la temperatura corporal basal en la fase lútea, de 0,3 a 0,5 grados Celsius según el NIH Endotext, también puede interferir con el descanso profundo al dificultar la termorregulación nocturna."
+            },
+            {
+              "title": "Sueño durante la menstruación",
+              "content": "Durante el periodo, el dolor menstrual, los cambios de humor y la necesidad de levantarse por la noche pueden fragmentar el sueño. Los antiinflamatorios no esteroideos tomados según indicación médica para los cólicos no solo alivian el dolor, sino que pueden mejorar indirectamente el descanso al reducir las molestias que despiertan.\n\nMantener una rutina de sueño constante, usar una almohada o bolsa de calor para el bajo vientre y evitar pantallas al menos una hora antes de dormir son medidas sencillas con respaldo en higiene del sueño. Si el sangrado nocturno te preocupa, productos de protección adecuados para la noche pueden reducir la ansiedad y los despertares."
+            },
+            {
+              "title": "Hábitos para un mejor descanso en todo el ciclo",
+              "content": "El CDC recomienda que los adultos duerman al menos siete horas por noche de forma regular. Establecer horarios fijos de acostarse y levantarse, incluso los fines de semana, refuerza el ritmo circadiano. Un dormitorio fresco, oscuro y silencioso favorece la producción de melatonina, especialmente importante cuando las hormonas ya alteran la termorregulación en la fase lútea.\n\nLimitar la cafeína después del mediodía, reducir el alcohol que fragmenta el sueño REM y practicar técnicas de relajación como respiración diafragmática o meditación guiada pueden atenuar la ansiedad premenstrual que dificulta conciliar el sueño. El ejercicio regular, preferiblemente durante la mañana o primera mitad del día, también mejora la calidad del descanso nocturno."
+            },
+            {
+              "title": "Cuándo el problema del sueño requiere atención",
+              "content": "Si los trastornos del sueño son severos, persistentes durante todo el mes o se acompañan de somnolencia diurna incapacitante, descarta condiciones como apnea del sueño, trastorno de ansiedad o depresión, que pueden empeorar premenstrualmente. El síndrome premenstrual disfórico incluye alteraciones marcadas del sueño que requieren evaluación especializada.\n\nLlevar un diario de sueño junto con el registro del ciclo ayuda a identificar patrones hormonales y a comunicarlos eficazmente a tu médico. Los tratamientos pueden incluir terapia cognitivo-conductual para el insomnio, ajustes hormonales bajo supervisión o manejo específico del TDPM. Dormir bien no es un lujo: es un componente esencial de la salud menstrual y el bienestar integral.\n\nPriorizar el descanso durante todo el ciclo, no solo en los días difíciles, construye una base de bienestar que amortigua el impacto de las fluctuaciones hormonales."
+            },
+            {
+              "title": "Higiene del sueño y tecnología",
+              "content": "La exposición a la luz azul de pantallas antes de dormir suprime la melatonina y dificulta conciliar el sueño, un efecto que puede intensificarse en la fase lútea cuando la termorregulación ya está alterada. Establecer una rutina sin pantallas al menos 30 a 60 minutos antes de acostarte favorece la transición al sueño.\n\nLas aplicaciones de seguimiento del ciclo, como esta, pueden ayudarte a correlacionar fases menstruales con calidad del sueño si registras ambos datos. Compartir estos patrones con un médico del sueño o ginecólogo facilita un abordaje integrado cuando los problemas son recurrentes.\n\nSi los problemas de sueño persisten más allá de la fase premenstrual, considera una evaluación del sueño. Trastornos como la apnea obstructiva del sueño son subdiagnosticados en mujeres y pueden empeorar la fatiga y los cambios de humor asociados al ciclo."
+            }
+          ],
+          "sources": [
+            {
+              "name": "CDC — Recomendaciones de sueño",
+              "url": "https://www.cdc.gov/sleep/about/index.html"
+            },
+            {
+              "name": "NIH — Sueño y salud de la mujer",
+              "url": "https://www.nhlbi.nih.gov/health/sleep"
+            },
+            {
+              "name": "NIH Endotext — Fisiología del ciclo menstrual",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK279054/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "symptoms",
+      "title": "Síntomas comunes",
+      "articles": [
+        {
+          "id": "cramps",
+          "title": "Cólicos menstruales",
+          "subtitle": "Causas y alivio",
+          "readingTimeMinutes": 7,
+          "body": "Los cólicos menstruales, o dismenorrea, son contracciones uterinas que causan dolor en el bajo vientre antes o durante el periodo. Aunque son muy frecuentes, no deben normalizarse cuando interfieren con la vida diaria. Existen estrategias de alivio basadas en evidencia y momentos en que el dolor requiere evaluación médica.",
+          "stats": [
+            {
+              "label": "Mujeres con dismenorrea",
+              "value": "50% a 90%",
+              "source": "ACOG"
+            },
+            {
+              "label": "Dismenorrea que limita actividades diarias",
+              "value": "Aprox. 10-15%",
+              "source": "ACOG"
+            },
+            {
+              "label": "Edad de mayor frecuencia",
+              "value": "Adolescencia y 20-30 años",
+              "source": "ACOG"
+            },
+            {
+              "label": "Mecanismo principal del dolor",
+              "value": "Prostaglandinas",
+              "source": "NIH"
+            }
+          ],
+          "sections": [
+            {
+              "title": "¿Por qué ocurren los cólicos?",
+              "content": "Los cólicos menstruales primarios se deben a la liberación de prostaglandinas en el endometrio, sustancias que provocan contracciones uterinas para expulsar el revestimiento menstrual. Según el ACOG, entre el 50 y el 90% de las mujeres en edad reproductiva experimentan dismenorrea en algún momento, siendo más frecuente en la adolescencia y los veinte años.\n\nEl dolor suele comenzar uno o dos días antes del periodo o con el inicio del sangrado, y puede irradiarse a la espalda baja o los muslos. La dismenorrea secundaria, causada por condiciones como endometriosis, adenomiosis o miomas, tiende a empeorar con el tiempo y puede aparecer fuera del periodo. Diferenciar ambas formas es importante para un tratamiento adecuado."
+            },
+            {
+              "title": "Estrategias de alivio en casa",
+              "content": "Los antiinflamatorios no esteroideos, como el ibuprofeno o el naproxeno, bloquean la producción de prostaglandinas y son más efectivos si se toman al inicio del dolor o uno o dos días antes del periodo esperado, siempre siguiendo la dosificación recomendada y las contraindicaciones médicas. El calor local mediante bolsa de agua caliente o compresas térmicas sobre el bajo vientre relaja la musculatura uterina y reduce el dolor.\n\nEl ejercicio aeróbico ligero, el yoga y las técnicas de relajación también muestran beneficio en estudios clínicos. El magnesio y la vitamina B1 han demostrado en algunos ensayos una reducción modesta de la intensidad del dolor, aunque la evidencia varía. Combinar varias estrategias suele ser más efectivo que depender de una sola."
+            },
+            {
+              "title": "Tratamientos médicos cuando el dolor es moderado a severo",
+              "content": "Si los cólicos limitan tus actividades a pesar de medidas caseras, consulta a un ginecólogo. Los anticonceptivos hormonales reducen el grosor del endometrio y la producción de prostaglandinas, aliviando el dolor en muchas personas. El DIU hormonal también puede disminuir significativamente el sangrado y los cólicos.\n\nEn casos de dismenorrea secundaria por endometriosis, el tratamiento puede incluir terapias hormonales, analgésicos específicos o cirugía según la extensión de la enfermedad. El ACOG señala que aproximadamente un 10 al 15% de las mujeres con dismenorrea experimentan dolor lo suficientemente severo como para interferir con la escuela, el trabajo o las actividades sociales de forma recurrente, lo que justifica una evaluación exhaustiva."
+            },
+            {
+              "title": "Señales de alerta y cuándo consultar",
+              "content": "Busca atención médica si el dolor empeora progresivamente, no responde a analgésicos de venta libre, aparece fuera del periodo, se acompaña de sangrado muy abundante, fiebre, dolor con las relaciones sexuales o dificultad para concebir. Estas características sugieren causas subyacentes que requieren diagnóstico por imagen o laparoscopia.\n\nNo asumas que el dolor menstrual intenso es normal solo porque es frecuente entre tus amigas o familiares. La dismenorrea tratada mejora la calidad de vida, la productividad y la salud mental. Llevar un registro del dolor, su intensidad en una escala del 1 al 10, y su relación con el ciclo facilita enormemente la consulta y acelera el camino hacia un tratamiento efectivo.\n\nValidar tu experiencia del dolor es el primer paso hacia un tratamiento efectivo. No estás exagerando si el dolor menstrual limita tu vida."
+            },
+            {
+              "title": "Cólicos en adolescentes y adultas jóvenes",
+              "content": "La dismenorrea primaria suele comenzar poco después de la menarquia y alcanza su máxima intensidad en la adolescencia tardía y los veinte años, según el ACOG. Muchas adolescentes normalizan el dolor intenso y no buscan ayuda, lo que puede afectar su rendimiento escolar y su bienestar emocional.\n\nLos padres, educadores y profesionales de salud deben validar el dolor menstrual y facilitar el acceso a tratamiento. Los antiinflamatorios son seguros en adolescentes bajo indicación médica, y los anticonceptivos hormonales pueden considerarse cuando el dolor es recurrente e incapacitante.\n\nLa fisioterapia de suelo pélvico y las técnicas de relajación muscular progresiva han demostrado beneficio en personas con dolor pélvico crónico asociado a la menstruación. Pregunta a tu ginecólogo si estas opciones son adecuadas para tu caso particular."
+            }
+          ],
+          "sources": [
+            {
+              "name": "ACOG — Dismenorrea (periodos dolorosos)",
+              "url": "https://www.acog.org/womens-health/faqs/dysmenorrhea-painful-periods"
+            },
+            {
+              "name": "NIH — Dismenorrea",
+              "url": "https://www.nichd.nih.gov/health/topics/menstruation/conditioninfo/pain"
+            },
+            {
+              "name": "NHS — Periodos dolorosos",
+              "url": "https://www.nhs.uk/conditions/period-pain/"
+            }
+          ]
+        },
+        {
+          "id": "migraines",
+          "title": "Migrañas y ciclo menstrual",
+          "subtitle": "La conexión hormonal",
+          "readingTimeMinutes": 7,
+          "body": "Las migrañas menstruales están estrechamente vinculadas a las fluctuaciones de estrógeno, especialmente a su caída brusca antes del periodo. Reconocer este patrón permite anticipar los episodios y explorar opciones preventivas y de tratamiento con un profesional de salud especializado.",
+          "stats": [
+            {
+              "label": "Prevalencia de migraña en mujeres",
+              "value": "Aprox. 18%",
+              "source": "OMS"
+            },
+            {
+              "label": "Migraña puramente menstrual",
+              "value": "Aprox. 7-19% de mujeres con migraña",
+              "source": "NIH"
+            },
+            {
+              "label": "Migrañas relacionadas con menstruación",
+              "value": "Hasta 60% de mujeres con migraña",
+              "source": "NIH"
+            },
+            {
+              "label": "Relación con caída de estrógeno",
+              "value": "2-3 días antes del periodo",
+              "source": "NIH"
+            }
+          ],
+          "sections": [
+            {
+              "title": "¿Qué es la migraña menstrual?",
+              "content": "La migraña menstrual es un tipo de cefalea que ocurre en relación con la caída de estrógeno que precede al periodo, generalmente entre dos y tres días antes del sangrado. Según el NIH, entre el 7 y el 19% de las mujeres con migraña experimentan migraña puramente menstrual, mientras que hasta el 60% notan una mayor frecuencia o intensidad de ataques en torno a la menstruación.\n\nLa migraña se caracteriza por dolor pulsátil, frecuentemente unilateral, que puede durar de 4 a 72 horas, acompañado de náuseas, vómitos y sensibilidad a la luz y al sonido. A diferencia de un dolor de cabeza tensional leve, la migraña suele ser incapacitante y empeora con la actividad física habitual.\n\nLlevar un registro detallado de los ataques junto con las fechas del ciclo menstrual es la herramienta más útil para confirmar el patrón y diseñar un plan de tratamiento personalizado con tu médico."
+            },
+            {
+              "title": "El papel del estrógeno",
+              "content": "El estrógeno modula la actividad de neurotransmisores y vasos sanguíneos cerebrales implicados en la migraña. No es el nivel bajo de estrógeno en sí lo que desencadena el ataque, sino la caída abrupta tras un periodo de niveles más altos, como ocurre en la fase lútea tardía. Por eso las migrañas menstruales suelen coincidir con el periodo, la ovulación o ambos momentos de cambio hormonal.\n\nLa menarquia, el embarazo, el posparto y la perimenopausia son etapas en las que las migrañas pueden cambiar de frecuencia o intensidad. Algunas mujeres mejoran durante el embarazo, especialmente en el segundo y tercer trimestre, cuando los niveles de estrógeno se mantienen estables y elevados."
+            },
+            {
+              "title": "Identificar y registrar el patrón",
+              "content": "Llevar un diario de cefaleas durante al menos tres ciclos permite correlacionar los ataques con las fases menstruales. Anota la fecha, la intensidad, los síntomas asociados, posibles desencadenantes como falta de sueño, ayuno, estrés o ciertos alimentos, y los medicamentos que tomaste y su efectividad.\n\nEsta información es invaluable para el neurólogo o médico de cabecera al diseñar un plan de tratamiento. Si al menos dos de tres ataques ocurren entre dos días antes y tres días después del inicio del periodo, se cumple el criterio clínico de migraña menstrual según la Clasificación Internacional de las Cefaleas."
+            },
+            {
+              "title": "Opciones de tratamiento y prevención",
+              "content": "El tratamiento agudo incluye triptanes, antiinflamatorios y analgésicos específicos, que deben tomarse al primer signo del aura o del dolor para maximizar su eficacia. La profilaxis puede incluir antiinflamatorios programados en los días premenstruales, triptanes preventivos en dosis cortas, o anticonceptivos hormonales que estabilicen los niveles de estrógeno, siempre bajo prescripción médica.\n\nCambios en el estilo de vida como sueño regular, hidratación, comidas frecuentes para evitar ayunos prolongados y manejo del estrés complementan el tratamiento farmacológico. Si las migrañas son frecuentes o severas, consulta a un especialista en cefaleas. No toleres el dolor recurrente sin buscar ayuda: existen terapias eficaces que pueden devolverte la funcionalidad durante todo el ciclo.\n\nLa migraña menstrual no es un capricho ni debilidad: es una condición neurológica con base biológica que merece tratamiento profesional."
+            },
+            {
+              "title": "Migraña menstrual y anticonceptivos",
+              "content": "La relación entre anticonceptivos hormonales y migraña es compleja. En mujeres con migraña con aura, los anticonceptivos combinados pueden aumentar el riesgo de eventos trombóticos y generalmente están contraindicados. Sin embargo, en migraña sin aura, ciertos regímenes hormonales que evitan la caída de estrógeno durante la semana de descanso pueden reducir las migrañas menstruales.\n\nEsta decisión debe tomarse con un neurólogo o ginecólogo que evalúe tu historial completo de cefaleas, factores de riesgo cardiovascular y preferencias reproductivas. No modifiques tu anticoncepción por tu cuenta si tienes migraña recurrente.\n\nEvitar desencadenantes conocidos, como la privación de sueño, el ayuno prolongado, el estrés extremo y ciertos alimentos como el vino tinto o los quesos curados en personas susceptibles, puede reducir la frecuencia de ataques a lo largo de todo el ciclo, no solo en la fase menstrual."
+            }
+          ],
+          "sources": [
+            {
+              "name": "NIH — Migraña menstrual",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK554497/"
+            },
+            {
+              "name": "OMS — Cefaleas",
+              "url": "https://www.who.int/news-room/fact-sheets/detail/headache-disorders"
+            },
+            {
+              "name": "NHS — Migrañas",
+              "url": "https://www.nhs.uk/conditions/migraine/"
+            }
+          ]
+        },
+        {
+          "id": "pms",
+          "title": "Síndrome premenstrual (SPM)",
+          "subtitle": "Manejo de síntomas emocionales y físicos",
+          "readingTimeMinutes": 8,
+          "body": "El síndrome premenstrual agrupa síntomas físicos y emocionales que aparecen en la fase lútea y desaparecen con el inicio del periodo. Aunque es frecuente, su impacto varía enormemente. Diferenciar el SPM leve del trastorno disfórico premenstrual es clave para acceder al tratamiento adecuado.",
+          "stats": [
+            {
+              "label": "Mujeres con síntomas de SPM",
+              "value": "20% a 30%",
+              "source": "ACOG"
+            },
+            {
+              "label": "Trastorno disfórico premenstrual (TDPM)",
+              "value": "2% a 5%",
+              "source": "ACOG"
+            },
+            {
+              "label": "Fase en que aparecen los síntomas",
+              "value": "Fase lútea (1-2 semanas antes)",
+              "source": "ACOG"
+            },
+            {
+              "label": "Síntomas que resuelven con el periodo",
+              "value": "Criterio diagnóstico clave",
+              "source": "NIH"
+            }
+          ],
+          "sections": [
+            {
+              "title": "¿Qué es el SPM y cuáles son sus síntomas?",
+              "content": "El síndrome premenstrual comprende un conjunto de molestias físicas y emocionales que se presentan en la semana o dos semanas previas al periodo y se resuelven con el inicio del sangrado. Según el ACOG, entre el 20 y el 30% de las mujeres en edad reproductiva experimentan síntomas de SPM que afectan su calidad de vida en algún grado.\n\nLos síntomas físicos incluyen hinchazón abdominal, sensibilidad mamaria, dolor de cabeza, fatiga y antojos alimentarios. Los síntomas emocionales pueden abarcar irritabilidad, ansiedad, tristeza, cambios de humor y dificultad para concentrarse. La gravedad y la combinación de síntomas varían de un ciclo a otro y de una persona a otra.\n\nLlevar un registro detallado de los ataques junto con las fechas del ciclo menstrual es la herramienta más útil para confirmar el patrón y diseñar un plan de tratamiento personalizado con tu médico."
+            },
+            {
+              "title": "SPM versus trastorno disfórico premenstrual",
+              "content": "El trastorno disfórico premenstrual es una forma severa de SPM que afecta al 2 al 5% de las mujeres en edad fértil, según el ACOG. Se caracteriza por síntomas emocionales marcados como depresión, irritabilidad extrema o ansiedad que interfieren significativamente con el trabajo, las relaciones y las actividades cotidianas.\n\nEl diagnóstico de TDPM requiere documentar los síntomas durante al menos dos ciclos consecutivos mediante un diario prospectivo. Es fundamental descartar otros trastornos psiquiátricos cuyos síntomas puedan empeorar premenstrualmente pero no desaparecer con el periodo. Un profesional de salud mental o ginecólogo con experiencia en TDPM puede realizar esta evaluación diferencial."
+            },
+            {
+              "title": "Estrategias de manejo basadas en evidencia",
+              "content": "El ejercicio aeróbico regular, la reducción del consumo de sal, azúcar y cafeína, y técnicas de manejo del estrés como mindfulness o terapia cognitivo-conductual han demostrado beneficio en ensayos clínicos para aliviar síntomas del SPM. Los suplementos de calcio, a dosis de aproximadamente 1000 a 1200 mg diarios, y de magnesio han mostrado reducción modesta de algunos síntomas en estudios controlados.\n\nLos anticonceptivos hormonales que suprimen la ovulación pueden reducir los síntomas en personas con SPM moderado a severo. Los inhibidores selectivos de la recaptación de serotonina en dosis bajas, tomados solo en la fase lútea o de forma continua, son el tratamiento de primera línea para el TDPM según guías clínicas. La vitamina B6 puede ayudar en dosis moderadas, pero dosis altas pueden ser tóxicas."
+            },
+            {
+              "title": "Autocuidado y cuándo buscar ayuda profesional",
+              "content": "Registrar tus síntomas diariamente durante dos o más ciclos te permite identificar patrones y evaluar si las medidas que tomas están funcionando. Prioriza el sueño, mantén comidas regulares para estabilizar la glucosa y comunica a personas cercanas lo que experimentas para obtener apoyo emocional.\n\nConsulta a un profesional si los síntomas interfieren con tu vida diaria, si experimentas pensamientos de desesperanza o si las medidas de autocuidado no son suficientes. El SPM y el TDPM son condiciones reales y tratables, no una exageración ni algo con lo que simplemente debas convivir. Un plan personalizado que combine estilo de vida, apoyo psicológico y tratamiento farmacológico cuando sea necesario puede transformar la experiencia premenstrual.\n\nReconocer el SPM como una condición médica real, no como algo que debas soportar en silencio, es un acto de autocuidado y empoderamiento."
+            },
+            {
+              "title": "Apoyo social y validación del SPM",
+              "content": "El SPM ha sido históricamente minimizado o estigmatizado, lo que dificulta que las personas busquen ayuda. Validar la experiencia propia y la de otras es fundamental: los síntomas premenstruales tienen base biológica y no son «exageraciones» ni defectos de carácter.\n\nComunicar a parejas, familiares o compañeros de trabajo de forma apropiada puede generar comprensión y apoyo. Algunas personas se benefician de ajustar su carga de trabajo o responsabilidades en los días de mayor sintomatología, sin que esto signifique debilidad sino inteligencia corporal y autocuidado.\n\nLa terapia cognitivo-conductual ha demostrado eficacia comparable a la farmacoterapia en algunos estudios para el manejo del TDPM. Combinar intervenciones psicológicas con tratamiento médico cuando sea necesario ofrece los mejores resultados a largo plazo."
+            }
+          ],
+          "sources": [
+            {
+              "name": "ACOG — Síndrome premenstrual",
+              "url": "https://www.acog.org/womens-health/faqs/premenstrual-syndrome"
+            },
+            {
+              "name": "NIH — SPM y TDPM",
+              "url": "https://www.nichd.nih.gov/health/topics/pms"
+            },
+            {
+              "name": "NHS — Síndrome premenstrual",
+              "url": "https://www.nhs.uk/conditions/pre-menstrual-syndrome/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
